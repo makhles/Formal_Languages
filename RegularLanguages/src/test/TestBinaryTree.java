@@ -1,7 +1,9 @@
-package model;
+package test;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
+
+import model.BinaryTree;
 
 public class TestBinaryTree {
 
